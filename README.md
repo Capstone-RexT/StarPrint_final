@@ -1,4 +1,4 @@
-# DFNet for Traffic Analysis (DFNet Implementation of StarPrint Project)
+# StarPrint
 
 ---
 
