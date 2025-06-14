@@ -1,4 +1,4 @@
-# StarPrint
+# StarPrint : Traffic Vulnerability Analysis of Starlink and Transformer-Based Website Fingerprinting Attack
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-This project contains the **DFNet implementation of StarPrint, an optimized Transformer-based model designed to explore the possibility of Website Fingerprinting (WF) attacks in satellite internet environments like Starlink.** Specifically, this repository leverages an architecture inspired by the Convolutional Vision Transformer (CvT) and utilities for traffic data processing, focusing on inferring user internet activity from encrypted traffic.
+This project contains the **implementation of StarPrint, an optimized Transformer-based model designed to explore the possibility of Website Fingerprinting (WF) attacks in satellite internet environments like Starlink.** Specifically, this repository leverages an architecture inspired by the Convolutional Vision Transformer (CvT) and utilities for traffic data processing, focusing on inferring user internet activity from encrypted traffic.
 
 The DFNet implementation in this project is based on the paper "StarPrint: Traffic Vulnerability Analysis of Starlink and Transformer-Based Website Fingerprinting Attack." It aims to improve the accuracy of WF attacks using Inter-Packet Delay (IPD)-based feature vectors. This approach demonstrates superior performance compared to existing WF techniques, experimentally proving the feasibility of WF attacks even in satellite internet environments, and highlighting the urgent need for defense strategies.
 
