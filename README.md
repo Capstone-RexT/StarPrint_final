@@ -16,6 +16,7 @@ The DFNet implementation in this project is based on the paper "StarPrint: Traff
 
 The provided files serve the following purposes:
 
+'''
 .
 ├── main.py
 ├── requirements.txt
@@ -28,7 +29,7 @@ The provided files serve the following purposes:
 ├── data.py
 ├── processor.py
 └── utility.py
-
+'''
 
 * **`main.py`**: The main script for model training and evaluation. It includes data loading, model initialization, training loops, and evaluation functions.
 * **`requirements.txt`**: A list of Python packages required to run the project.
