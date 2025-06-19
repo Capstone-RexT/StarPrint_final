@@ -21,14 +21,14 @@ The provided files serve the following purposes:
 ├── main.py
 ├── requirements.txt
 └── src/
-├── init.py  # Indicates a Python package
-├── transdfnet.py
-├── cls_cvt.py
-├── layers.py
-├── mixers.py
-├── data.py
-├── processor.py
-└── utility.py
+   ├── init.py  # Indicates a Python package
+   ├── transdfnet.py
+   ├── cls_cvt.py
+   ├── layers.py
+   ├── mixers.py
+   ├── data.py
+   ├── processor.py
+   └── utility.py
 ```
 
 * **`main.py`**: The main script for model training and evaluation. It includes data loading, model initialization, training loops, and evaluation functions.
